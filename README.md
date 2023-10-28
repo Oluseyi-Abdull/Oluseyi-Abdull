@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Make sure to add other previous projects
 
-# Languages and tools 
+# Languages and tools make linkable logo to references
 
 - Python
 - TensorFlow
