@@ -4,11 +4,11 @@
   
 - 📚 I’m interested in may different areas includiing but not limited to Robotics, BioEngineering, Neuroscience
   
-- 🌱 I’m currently learning more about Data Engineering Artificial Intelligence and some of its subtopics
+- 🧠: I’m currently learning more about Data Engineering Artificial Intelligence and some of its subtopics
   
-- 💞️ I’m looking to collaborate on projects that can deepen my knowledge in any of the fields of Robotics, Artificial Intelligence, BioEngineering, Computational Biology.
+- 🤖 I’m looking to collaborate on projects that can deepen my knowledge in any of the fields of Robotics, Artificial Intelligence, BioEngineering, Computational Biology.
   
-- 📫 I am easiest to reach on though my email address oluseyi.abdull@gmail.com , or _via_ my LinkedIn https://www.linkedin.com/feed/
+- 📧 I am easiest to reach on though my email address oluseyi.abdull@gmail.com , or _via_ my LinkedIn https://www.linkedin.com/feed/
 
 <!---
 Oluseyi-Abdull/Oluseyi-Abdull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 - [AiCore-Hangman Project](https://github.com/Oluseyi-Abdull/AiCore-Hangman)
   This is the current project I am working on, by clicking the above link you can read more about it.
 
-### Make sure to add other 
+### Make sure to add other previous projects
 
 # Languages and tools 
 
