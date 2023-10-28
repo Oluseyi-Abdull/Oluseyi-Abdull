@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # My TechStack
 
-[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,aws,kafka,cpp,c,arduino,raspberrypi,ros,discord,linux,bash,matlab,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,arduino,ros,linux,bash,matlab,git,github)](https://skillicons.dev)
 
 ## [What have I been up to?](https://github.com/Oluseyi-Abdull?tab=repositories)
 
