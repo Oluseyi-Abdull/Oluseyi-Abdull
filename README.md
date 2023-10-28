@@ -26,19 +26,4 @@ You can click the Preview link to take a look at your changes.
 
 ### Make sure to add other previous projects
 
-# Languages and tools make linkable logo to references
-
-- Python
-- TensorFlow
-- SciKit-Learn 
-- Arduino
-- OpenCV
-- Matplotlib
-- Pandas
-- Numpy
-- Solidworks
-- LabVIEW
-- MatLab
-- Git
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Oluseyi-Abdull&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
