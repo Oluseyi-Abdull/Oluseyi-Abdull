@@ -8,7 +8,7 @@
   
 - 🤖 I’m looking to collaborate on projects that can deepen my knowledge in any of the fields of Robotics, Artificial Intelligence, BioEngineering, Computational Biology.
   
-- 📧 I am easiest to reach on though my email address oluseyi.abdull@gmail.com , or _via_ my LinkedIn https://www.linkedin.com/feed/
+- 📧 I am easiest to reach on though my email address oluseyi.abdull@gmail.com , or _via_ my LinkedIn [https://www.linkedin.com/feed/](https://www.linkedin.com/in/o-abdull/)
 
 <!---
 Oluseyi-Abdull/Oluseyi-Abdull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
