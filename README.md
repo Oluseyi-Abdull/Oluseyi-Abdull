@@ -22,5 +22,4 @@ You can click the Preview link to take a look at your changes.
 
 # Languages and tools 
 
-[![f5643096750899 5eb54f3381b8f](https://github.com/Oluseyi-Abdull/Oluseyi-Abdull/assets/149166369/9a3d6f98-e01c-4319-b8ee-6f8b5267b800)
-](https://www.python.org/)
+[![f5643096750899 5eb54f3381b8f](https://www.python.org/)]
