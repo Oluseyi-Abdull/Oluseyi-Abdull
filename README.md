@@ -1,5 +1,5 @@
 # Hi, I’m Oluseyi Abdull
-- I am a recently Graduated Robotics Engineering Student, I am looking to get involed in as many interesting projects as possible, my knowledge and understanding is mostly within Python and C++ , C for Micro-controllers for Embedded Systems Design
+- I am a recently Graduated Robotics Engineering Student, now studying Neurotechnology. I am looking to get involed in as many interesting projects as possible, my knowledge and understanding is mostly within Python and C++ , C for Micro-controllers for Embedded Systems Design
   for physical projects that interact with the world. I enjoy employing complex coding techniques within these projects that draw inpiration for a multitude of disciplines to make a project as effective as possible.
   
 - 📚 I’m interested in may different areas includiing but not limited to Robotics, BioEngineering, Neuroscience
