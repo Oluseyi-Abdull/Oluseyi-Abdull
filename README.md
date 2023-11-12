@@ -23,6 +23,4 @@ You can click the Preview link to take a look at your changes.
 - [AiCore-Hangman Project](https://github.com/Oluseyi-Abdull/AiCore-Hangman)
   This is the current project I am working on, by clicking the above link you can read more about it.
 
-### Make sure to add other previous projects
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Oluseyi-Abdull&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
